@@ -1,9 +1,9 @@
 # RockPaperScissorsWithNavigation
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-19at21.16.11.png)
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-19at16.17.39.png)
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-19at21.16.04.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-21at08.34.50.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-21at08.35.20.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-21at08.35.30.png)
 
 
 RockPaperScissorsWithNavigation is an iOS sample application that plays rock, paper, scissors and shows the history using TableView. It uses navigation to move between pages.
