@@ -50,7 +50,8 @@ class RockPaperScissorsViewController: UIViewController {
         
         controller.history = self.history
         
-        self.present(controller, animated: true, completion: nil)
+        //self.present(controller, animated: true, completion: nil)
+    self.navigationController?.pushViewController(controller, animated: true)
     }
     
     // MARK: Play!
@@ -74,7 +75,8 @@ class RockPaperScissorsViewController: UIViewController {
             
             // Communicate the match
             resultVC.match = self.match
-            self.present(resultVC, animated: true, completion: nil)
+            // self.present(resultVC, animated: true, completion: nil)
+        self.navigationController?.pushViewController(resultVC, animated: true)
         }
             
             // 2nd Way: Code plus Segue

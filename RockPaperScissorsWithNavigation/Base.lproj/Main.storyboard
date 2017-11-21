@@ -101,7 +101,7 @@
                                 <rect key="frame" x="0.0" y="623" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <items>
-                                    <barButtonItem title="Back" id="27b-Nk-baG">
+                                    <barButtonItem title="Play Again" id="27b-Nk-baG">
                                         <connections>
                                             <action selector="closeWindow:" destination="5VK-ga-gw7" id="NkO-8q-idV"/>
                                         </connections>
@@ -232,6 +232,6 @@
         <image name="scissors" width="75" height="65"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="81W-0y-6im"/>
+        <segue reference="nsm-li-Kkx"/>
     </inferredMetricsTieBreakers>
 </document>

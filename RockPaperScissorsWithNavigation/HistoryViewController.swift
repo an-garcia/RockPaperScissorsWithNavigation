@@ -75,7 +75,8 @@ class HistoryViewController: UIViewController, UITableViewDataSource {
     }
     
     @IBAction func closeWindow(_ sender: AnyObject) {
-        dismiss(animated: true, completion: nil)
+        //dismiss(animated: true, completion: nil)
+        let _ = navigationController?.popToRootViewController(animated: true)
     }
     
 }
